@@ -1,0 +1,6 @@
+C:\Users\jash\Desktop\Console_ifdefined\Console_ifdefined\bin\Debug\Console_ifdefined.exe.config
+C:\Users\jash\Desktop\Console_ifdefined\Console_ifdefined\bin\Debug\Console_ifdefined.exe
+C:\Users\jash\Desktop\Console_ifdefined\Console_ifdefined\bin\Debug\Console_ifdefined.pdb
+C:\Users\jash\Desktop\Console_ifdefined\Console_ifdefined\obj\Debug\Console_ifdefined.csprojResolveAssemblyReference.cache
+C:\Users\jash\Desktop\Console_ifdefined\Console_ifdefined\obj\Debug\Console_ifdefined.exe
+C:\Users\jash\Desktop\Console_ifdefined\Console_ifdefined\obj\Debug\Console_ifdefined.pdb
